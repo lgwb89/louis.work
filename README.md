@@ -4,7 +4,7 @@ I'm a developer, designer and writer from the UK.
 
 ### Current work
 
-- [Nudge](http://nudgeware.io/){:target="_blank"}, a Chrome extension that makes the internet less addictive
+- [Nudge](http://nudgeware.io/?target=blank), a Chrome extension that makes the internet less addictive
 - (Occasional) writer on [Hacker Noon](https://hackernoon.com/@louisbarclay), mostly about Nudge
 
 ### Previous work
