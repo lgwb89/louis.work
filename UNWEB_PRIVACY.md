@@ -66,7 +66,7 @@ Unweb will take all steps reasonably necessary to ensure that your data is treat
 
 # Service Providers
 
-We may employ third party companies and individuals to facilitate Nudge ("Service Providers"), to provide Unweb on our behalf, to perform Unweb-related services or to assist us in analyzing how Unweb is used.
+We may employ third party companies and individuals to facilitate Unweb ("Service Providers"), to provide Unweb on our behalf, to perform Unweb-related services or to assist us in analyzing how Unweb is used.
 
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
